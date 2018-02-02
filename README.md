@@ -1,3 +1,4 @@
 # BattleShip
 A game where ships are hidden on a grid!
-Download the BattleShip file and open index.html to play!
+Click on this link to play!
+http://htmlpreview.github.io/?https://github.com/prolightHub/BattleShip/blob/master/battleShip/index.html
